@@ -15,7 +15,7 @@ Techno India College Of Technology
 </div>
 <div id="webaddress">
 <a href="https://linktr.ee/Lazy_panda001"
-onclick="getOutboundLink('Resume'); return true;"
+onclick="getOutboundLink('Linktree'); return true;"
 target="_blank">
 Linktree</a> |
 <a href="https://drive.google.com/drive/folders/1m6ji7OTrthgYuKLlg1DFi-M2gkvcZ2u0?usp=sharing"
@@ -57,13 +57,14 @@ GeeksForGeeks</a>
 `Aug 2014 - June 2018`
 
 - Bachelor of Technology with Information Technology 
+- Data Structure and Algorithm, DBMS, Operating Stystem etc..
 - Grade Point Average <a id="smu-gpa">> 8.41/10 </a>
 
 
 ## Work Experience
 
 **Blue Yonder**
-`July 2022 - On-Going`<br>
+`July 2022 - Present`<br>
 Software Development Engineer - 1
 
 - Explored vehicle and driver features to improve the estimate of the time of arrival
@@ -74,18 +75,12 @@ Software Development Engineer - 1
 `Sep 2020 - June 2022`<br>
 Teaching Assistantship
 
-- Designed and implemented metrics to illustrate the accuracy of proposed methods
-- Optimized and parallelised routine calculation pipelines with PySpark
+- Taking Tutorial Class , Solving Student Doubt at Tutorial class , Checking Assignments etc.
+- Conduct Algorithm and Operating System Tutorial Classes, 
+  evaluating presentations, conducting HackerRank exams, 
+  preparing Algorithmic Questions for B.tech students.
 - Collaborated on repositories through a code review process with supervisors
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
-
-**2359 Media**
-`Dec 2018 - Sep 2019`<br>
- Software Engineer Intern
-
-- Delivered an API for chatbot builders to provide logic to the chatbot without writing code
-- Developed a file conversion tool to visualise the chatbot content in a spreadsheet
-- Technical domains: nodejs Express, Azure Functions, python
 
 
 ## Research Projects
