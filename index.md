@@ -69,33 +69,28 @@ Software Development Engineer - 1
 
 - Explored vehicle and driver features to improve the estimate of the time of arrival
 - Reviewed literature and prototyped a learning-based approach for vehicle routing problem
-- Technical domains: python or-tools pandas matplotlib, git, PostgreSQL
+- Technical domains: Java8, Spring Boot, Apache Kafka, MongoDB , Cassandra, Postman.
 
 **IIIT Allahabad**
 `Sep 2020 - June 2022`<br>
 Teaching Assistantship
 
 - Taking Tutorial Class , Solving Student Doubt at Tutorial class , Checking Assignments etc.
-- Conduct Algorithm and Operating System Tutorial Classes, 
-  evaluating presentations, conducting HackerRank exams, 
-  preparing Algorithmic Questions for B.tech students.
-- Collaborated on repositories through a code review process with supervisors
-- Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
+- Conducting Algorithm and Operating System Tutorial Classes, Evaluating presentations.
+- Conducting HackerRank exams, Preparing Algorithmic Questions for B.tech students.
+- Technical domains: C/C++, Python(Basics), Git, Vscode.
 
 
-## Research Projects
+## Skills
 
-**Live Piano Cover Transcription**
-`Jan 2018 - Sep 2018`
+**Languages**
+- Advance :‑ C/C++.
+- Intermediate :‑ Python, SQL, MATLAB.
+- Basic - Java, JavaScript,
 
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
 
-
-**Fake News Chrome Extension**
-`Oct 2017 - Jul 2018`
-
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
+**TOOLS AND TECHNOLOGIES**
+- Git, 
 
 
 ## Activities
