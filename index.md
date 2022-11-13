@@ -80,27 +80,26 @@ Teaching Assistantship
 - Conducting HackerRank exams, Preparing Algorithmic Questions for B.tech students.
 - Technical domains: C/C++, Python(Basics), Git, Vscode.
 
-
 ## Skills
 
 **Languages**
 - Advance :‑ C/C++.
 - Intermediate :‑ Python, SQL, MATLAB.
-- Basic - Java, JavaScript,
+- Basic - Java, JavaScript, MongoDB.
 
 
 **TOOLS AND TECHNOLOGIES**
-- Git, 
+- Git, HTML, CSS, VScode, IntelliJ Idea.
 
 
-## Activities
+## Academic Projects
 
-**SUTD Robotics Club**
-`May 2017 - March 2020`<br>
-Committee Member, SAUVC participant
+**2D Shortest Path Finding Visualizer**
+`Apri 2021 - April 2021`<br>
 
-- Facilitated Arduino workshops for more than 100 participants
-- Engineered hydrophones to locate pingers for SAUVC competition
+- Designed the graphical user interface using Simple and Fast Multimedia Library (SFML).
+- Implemented Dijkstra’s and A-star algorithm to find shortest distance and path between source and destination. 
+- Analysed different results using different heuristic functions and got 90% accuracy.
 
 
 
